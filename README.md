@@ -155,18 +155,6 @@ This project demonstrates the implementation of a complete serverless data pipel
    - Create visualization dashboards
 ---
 
-## ⚙️ Technologies Used
-
-- **AWS S3** – Scalable object storage
-- **AWS Lambda** – Serverless compute for data ingestion
-- **Amazon Athena** – Serverless SQL querying
-- **Amazon Kinesis Firehose** – Real-time streaming data ingestion
-- **AWS Glue (Crawlers + Jobs + Workflows)** – ETL and orchestration
-- **AWS EventBridge / CloudWatch** – Scheduling and monitoring
-- **Grafana** – Data visualization and BI
-
----
-
 ## 📊 Visualizations (Grafana)
 
 Some of the Grafana dashboards implemented: 🔗 [Link to SQL Queries](https://www.notion.so/aaryan-shah/Plots-that-we-are-making-for-our-Stock-price-analysis-using-Grafana-Dashboards-11bd945d1e8180909610e4127d2d6ebf?pvs=4)
