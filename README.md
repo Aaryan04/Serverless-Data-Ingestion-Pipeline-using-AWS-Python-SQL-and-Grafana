@@ -169,7 +169,7 @@ This project demonstrates the implementation of a complete serverless data pipel
 
 ## 📊 Visualizations (Grafana)
 
-Some of the Grafana dashboards implemented:
+Some of the Grafana dashboards implemented: 🔗 [Link to SQL Queries](https://www.notion.so/aaryan-shah/Plots-that-we-are-making-for-our-Stock-price-analysis-using-Grafana-Dashboards-11bd945d1e8180909610e4127d2d6ebf?pvs=4)
 
 - 📈 Stock Price Trends (Line chart)
 - 📊 Volume Traded Over Time (Bar chart)
