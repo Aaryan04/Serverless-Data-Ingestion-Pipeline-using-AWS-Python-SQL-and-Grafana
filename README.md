@@ -182,6 +182,7 @@ Some of the Grafana dashboards implemented: 🔗 [Link to SQL Queries](https://w
 │   ├── delete_parquet_weather_table_s3_athena.py
 │   ├── dq_checks_parquet_weather_table.py
 │   └── publish_prod_parquet_weather_table.py
+│   └── create_parquet_stock_table_glue_job.py
 ├── notebooks/
 │   └── sql_queries.sql
 ├── resources/
