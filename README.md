@@ -135,7 +135,3 @@ Ensure proper IAM roles and permissions:
 
 ---
 
-## 📬 Contact
-
-Made with ❤️ by [Your Name].  
-For questions, reach out via [LinkedIn](#) or [Email](#).
