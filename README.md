@@ -7,7 +7,8 @@ A complete end-to-end serverless data engineering project that ingests, transfor
 ## 📌 Project Overview
 
 This project demonstrates a fully serverless data pipeline architecture built on AWS. The pipeline ingests stock data from an external API, processes it using AWS Lambda, stores it in S3, transforms it using Glue and Athena, orchestrates workflows, and finally visualizes it using Grafana dashboards.
-https://www.notion.so/aaryan-shah/PROJECT-Serverless-Data-Ingestion-Pipeline-using-AWS-6ab7168b1dff415cbb133192f3786e7c?pvs=4#7992db63d5c741978d080d39423f1e62
+![image](https://github.com/user-attachments/assets/6c1963fb-95e5-4876-ae99-8a79ef7c957e)
+
 
 ---
 
@@ -112,6 +113,7 @@ Ensure proper IAM roles and permissions:
 - Lambda functions must have access to S3, Kinesis, and Firehose.
 - Glue must have full access to Athena and related S3 buckets.
 - EventBridge / CloudWatch must be allowed to trigger Lambda functions.
+![image](https://github.com/user-attachments/assets/b58adae1-7472-4b00-9125-70fad29a3936)
 
 ---
 
