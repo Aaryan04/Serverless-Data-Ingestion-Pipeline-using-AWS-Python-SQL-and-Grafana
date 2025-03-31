@@ -1,4 +1,4 @@
-# 🚀Serverless Data Ingestion Pipeline using AWS
+# 🚀Serverless Data Ingestion Pipeline using AWS, Python, SQL and Grafana
 
 ![AWS Architecture](https://img.shields.io/badge/AWS-Architecture-orange)
 ![Data Engineering](https://img.shields.io/badge/Data-Engineering-blue)
