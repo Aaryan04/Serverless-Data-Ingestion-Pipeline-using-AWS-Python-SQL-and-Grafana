@@ -1,12 +1,24 @@
-# 🚀 Serverless Data Ingestion Pipeline using AWS
+# 🚀Serverless Data Ingestion Pipeline using AWS
 
-A complete end-to-end serverless data engineering project that ingests, transforms, orchestrates, and visualizes stock market data using modern AWS cloud services.
+![AWS Architecture](https://img.shields.io/badge/AWS-Architecture-orange)
+![Data Engineering](https://img.shields.io/badge/Data-Engineering-blue)
+![Serverless](https://img.shields.io/badge/Serverless-Computing-green)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
----
+A comprehensive serverless data ingestion and processing pipeline built on AWS cloud services, following modern data engineering principles: automation, efficiency, and distributed computing.
 
-## 📌 Project Overview
+## Project Overview
 
-This project demonstrates a fully serverless data pipeline architecture built on AWS. The pipeline ingests stock data from an external API, processes it using AWS Lambda, stores it in S3, transforms it using Glue and Athena, orchestrates workflows, and finally visualizes it using Grafana dashboards.
+This project demonstrates the implementation of a complete serverless data pipeline using AWS services. The architecture is designed to automatically collect, process, transform, and visualize data without the need to provision or manage servers.
+
+### Key Data Engineering Principles
+
+- **Automation**: Get the right data to the right people at the right time
+- **Efficiency**: Optimize for both speed and cost
+- **Distributed Computing**: Leverage cloud-based distributed systems for scalability
+
+### Architecture Diagram
+
 ![image](https://github.com/user-attachments/assets/6c1963fb-95e5-4876-ae99-8a79ef7c957e)
 
 
