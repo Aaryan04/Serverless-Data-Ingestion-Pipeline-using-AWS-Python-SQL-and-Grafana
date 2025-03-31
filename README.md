@@ -185,8 +185,6 @@ Some of the Grafana dashboards implemented: 🔗 [Link to SQL Queries](https://w
 │   └── create_parquet_stock_table_glue_job.py
 ├── notebooks/
 │   └── sql_queries.sql
-├── resources/
-│   └── sample_output_screenshots/
 ├── README.md
 ```
 
